@@ -1,4 +1,4 @@
-# AI NFT Generator
+# Doge Draws # AI NFT Generator 
 
 ## Technology Stack & Tools
 
@@ -40,4 +40,10 @@ In a separate terminal execute:
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
 
 ### 7. Start frontend
-`$ npm run start`
+`$ npm run start` 
+
+## Project Contributors
+
+- Rishabh Rai (https://twitter.com/Rishabhknows)
+- Saumitra Kapoor (https://twitter.com/0xKapoor)
+- Vaibhav Mishra (https://twitter.com/vaibhavmishra5g)
