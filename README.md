@@ -1,4 +1,5 @@
-# Doge Draws # AI NFT Generator 
+# Doge Draws - AI NFT Generator 
+Doge Draws is a project built using Solidity, JavaScript, Hardhat, Ethers.js, React.js, NFT.Storage, and Hugging Face AI models. Our goal is to provide a fun and innovative way to generate unique NFTs using cutting-edge AI technology.
 
 ## Technology Stack & Tools
 
@@ -11,7 +12,7 @@
 - [Hugging Face](https://huggingface.co/) (AI Models)
 
 ## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/)
+- To get started with Doge Draws, you'll need to have NodeJS installed on your machine. [NodeJS](https://nodejs.org/en/)
 
 ## Setting Up
 ### 1. Clone/Download the Repository
