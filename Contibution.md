@@ -1,4 +1,4 @@
-# Contributing to Threadify 🪡
+# Contributing to Doge Draws
 
 Firstly, thank you for taking the time to contribute.
 `<br/>`
